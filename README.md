@@ -52,7 +52,7 @@ Grid Search and Best Parameters:
 
 The grid search identified a consistent set of hyperparameters (C=10 and gamma=0.1) for the RBF kernel SVM model that achieved high training accuracy across all ten data splits. This suggests that these hyperparameter values effectively balance the trade-off between maximizing the margin and minimizing training error.
 
-# esting Performance:
+# Testing Performance:
 
 The following table summarizes the results for each data split:
 
